@@ -1,2 +1,2 @@
 # DomainTermExtraction
-Domain Term Extraction
+Domain Term Extraction for a set of files
